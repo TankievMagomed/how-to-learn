@@ -295,13 +295,14 @@
 .footer {
   min-height: 350px;
   background-color: black;
-  padding: 60px 0 40px;
 }
 
 .footer__columns {
+  padding: 60px 0 40px;
   display: flex;
   width: 90%;
   justify-content: space-between;
+  margin: 0 auto;
 }
 .footer__columns_content_copyright {
   flex-basis: 711px;
