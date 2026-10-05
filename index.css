@@ -3,9 +3,6 @@
 @import url(./blocks/link-fade/link-fade.css);
 @import url(./blocks/rotation/rotation.css);
 
-
-@import url(./blocks/header/header.css);
-
 @import url(./blocks/header/header.css);
 @import url(./blocks/header/__title/header__title.css);
 @import url(./blocks/header/__subtitle/header__subtitle.css);
@@ -49,7 +46,7 @@
 @import url(./blocks/feynman/__title/feynman__title.css);
 @import url(./blocks/feynman/__subtitle/feynman__subtitle.css);
 @import url(./blocks/feynman/__link/feynman__link.css);
-@import url(./blocks/feynman/__illustration/);
+@import url(./blocks/feynman/__illustration/feynman__illustration.css);
 
 @import url(./blocks/digits/digits.css);
 
